@@ -12,7 +12,7 @@ Every 2 months from January to December I implement an idea in my head that i wa
 
 - Every Project from start to end must take no more than 2 months to complete from start to end including documentation
 - For the purposes of this challenge, the 2 months period refers to the the last day of the 2nd month in which the project was initiated. Since the starting date was the **1st of January 2018**, that means every **1st day of the  3rd month** is when the next project officially commences.
-- As a clarification to the above point, the **1st day of March, May, July, September,November and the 31st of December ** are when the next project is scheduled to commence except for the 31st of December which is the last day of the challenge
+- As a clarification to the above point, the **1st day of March, May, July, September,November and the 31st of December** are when the next project is scheduled to commence except for the 31st of December which is the last day of the challenge
 - The number of days in a month don't matter for the purposes of this challenge
 - Deliverables required for a project to be considered completed are a Project Outline, Source Code, **Working Demo Prototype*** uploaded on GitHub and Documentation/Whitepaper reference for the project. Post Mortem documents whilst wanted are not necessary for the project to be considered completed
 - A Working demo prototype is a prototype in which at least 60% of the specs of the outline are met with relatively few bugs barring special circumstances in which the challenges to the prototypes functionality have to be outlined clearly
