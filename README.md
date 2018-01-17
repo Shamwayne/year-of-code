@@ -1,6 +1,6 @@
 # Year of Code Challenge
 
-###*Also known as the 2 months sprint challenge*
+### *Also known as the 2 months sprint challenge*
 
 The premise of the Year of Code challenge is simple
 
